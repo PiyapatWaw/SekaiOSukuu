@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c900ca35df97244a918bedea9bcd5d4, type: 3}
+  m_Name: Dialog 0_Intro
+  m_EditorClassIdentifier: 
+  ID: 0
+  AllDialog:
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki: (We are reaching the end of our high school life.)'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki: (Without notice, we arrive in the last week of the semester.)'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Taki: (People said that life best moment is the moment one spends with
+      their friends.\r)"
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Taki: (But for me, I can\u2019t wait to get out of here.)"
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : I don''t have many friends anyway.'
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Sato: Does anyone want to go somewhere first? It\u2019s graduation week
+      by the way.\r"
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Natsuki: When do you quit being a wimp? I\u2019m fine either way. What
+      about you Taki?\r"
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Taki : (Sato, Natsuki. Getting along with others isn\u2019t really our
+      thing, that\u2019s why there always be three of us together.)"
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Taki : (However, these three goofs are the only one, I can call \u201Ca
+      friend\u201D)\n"
+  - Portrait: {fileID: 21300000, guid: eaaf487252918ed45b83e9d9246d2ea8, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : !!!'
+  - Portrait: {fileID: 21300000, guid: 5627a295d43477947a1713f336235afb, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Natsuki : !!!'
+  - Portrait: {fileID: 21300000, guid: 0ede64a969df4384aa36114d3a87fe90, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Sato : !!!'
+  - Portrait: {fileID: 21300000, guid: d7bc2098e78274c4a9a7fb58425e0cc9, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Tendo : !!!'
+  - Portrait: {fileID: 21300000, guid: 01e91d0e672a44a4ba3db7c728f5ccb2, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Hime : !!!'
+  - Portrait: {fileID: 0}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: '???: MWAA HAAA HAAA'
+  - Portrait: {fileID: 0}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: '???: You foolish puny human.'
+  - Portrait: {fileID: 0}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: '???: Your world shall face destruction.'
+  - Portrait: {fileID: 0}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: '???: I come to annihilate this world.'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : What happened!?'
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Sato : I heard that it\u2019s going to destroy the world "
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Natsuki: Yeah, I heard that too but what the hell was that?'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : What does that even mean?'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Shadow : That means all of you are the one who can protect this world.\r"
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Shadow : You guys have to fight those monster.'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Shadow : Those are evil from the future, even if you don\u2019t face it
+      now, it will only postpone the inevitable.\r\n"
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : But how were we supposed to fight it?'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Shadow : Worry not, I shall grant you the power.'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Shadow: To save the world.\r"

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: cc20c400e663c1d4fbdea071d6413a9f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Maitree
+  fontNames:
+  - Maitree
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b8a574808b11af4488c9ccb757cccdf2, type: 3}
+  - {fileID: 12800000, guid: 5bb25d35136e71444856039f36efcd8c, type: 3}
+  - {fileID: 12800000, guid: 0bb93d2932671c34e9f95d8cc7aad960, type: 3}
+  - {fileID: 12800000, guid: 31312bcab97e06d4683eadc4136bf043, type: 3}
+  - {fileID: 12800000, guid: 1184365fd2ac465449a8257e242ddfc4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

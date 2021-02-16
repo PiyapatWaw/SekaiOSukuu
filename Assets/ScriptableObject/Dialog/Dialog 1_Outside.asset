@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c900ca35df97244a918bedea9bcd5d4, type: 3}
+  m_Name: Dialog 1_Outside
+  m_EditorClassIdentifier: 
+  ID: 1
+  AllDialog:
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: "Sato : We can\u2019t damage it at all.\r"
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Natsuki : Surviving is hard enough already.'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: "Taki : Anyway, it\u2019s gone now, maybe we just have to endure it. "
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Sato : Even if you said that we can barely make it.'
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Natsuki : So I guess we should find some help.'
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Taki : But who still is in the school at this moment?
+
+
+
+'
+  - Portrait: {fileID: 21300000, guid: 52eb7155449480741a2844c3d52d2833, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Hime : Excuse me? Who allows you to leave, it is your duty to clean up
+      today!'
+  - Portrait: {fileID: 21300000, guid: b55b3c513054b744ca4f7c2ca849d283, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Tendo : Sorry, but I shall pass, I\u2019m going for my training, you know
+      \r\n"
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Hime : You can\u2019t pass your cleaning duty, you hear!"
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Hime : If you refuse to do that, the burden would fell on me'
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Sato : Um...Excuse me'
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Natsuki : Can you guys help us save the world?'
+  - Portrait: {fileID: 21300000, guid: b55b3c513054b744ca4f7c2ca849d283, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: Tendo :...
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: Hime :....
+  - Portrait: {fileID: 0}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: '!!!'

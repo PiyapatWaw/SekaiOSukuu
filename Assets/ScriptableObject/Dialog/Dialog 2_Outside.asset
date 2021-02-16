@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c900ca35df97244a918bedea9bcd5d4, type: 3}
+  m_Name: Dialog 2_Outside
+  m_EditorClassIdentifier: 
+  ID: 2
+  AllDialog:
+  - Portrait: {fileID: 21300000, guid: b55b3c513054b744ca4f7c2ca849d283, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Tendo : What is that thing!?'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Taki : Someone told us they are evil from the future.'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Taki : They said, they want to destroy the world.'
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Hime : When you guys first showed up, I thought It was some kind of prank.'
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Natsuki : Why do you think we would pull a prank like that?'
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Hime : Well...'
+  - Portrait: {fileID: 21300000, guid: b55b3c513054b744ca4f7c2ca849d283, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Tendo : You threes always stick together, never bother with anyone. So
+      we all think you guys kinda weird'
+  - Portrait: {fileID: 21300000, guid: 52eb7155449480741a2844c3d52d2833, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Hime : Tendo!'
+  - Portrait: {fileID: 21300000, guid: b55b3c513054b744ca4f7c2ca849d283, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: "Tendo : Let\u2019s say, we are sorry. I can\u2019t imagine who would go
+      save the world after class"
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Sato : We neither '
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Hime : So, what should we do next?'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Shadow : This is the toughest monster'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Shadow : Choose your best team to fight them'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Shadow : Those who are always by your side'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Shadow : Or those who pushes you towards the end'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Shadow : Who do you think is the one who will go through thick and thin
+      together
+
+'
+  - Portrait: {fileID: 21300000, guid: 0ace2fd27ae304e44acbeadcf4ed06e9, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Shadow : Who do you trust'

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c900ca35df97244a918bedea9bcd5d4, type: 3}
+  m_Name: Dialog 3_Outside
+  m_EditorClassIdentifier: 
+  ID: 3
+  AllDialog:
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Taki : Did we really win?
+
+'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: "Taki : So\u2026 we did it ? \n"
+  - Portrait: {fileID: 21300000, guid: b55b3c513054b744ca4f7c2ca849d283, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Tendo : Awesome!'
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Hime : We did it !!'
+  - Portrait: {fileID: 21300000, guid: 0ede64a969df4384aa36114d3a87fe90, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Sato : So.. this is the last one ?'
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Natsuki : Finally!'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Taki : Thank you everyone...'
+  - Portrait: {fileID: 21300000, guid: a02af3b0ff96e384caffd6244fe123c8, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: "Taki : If it\u2019s not because of you all"
+  - Portrait: {fileID: 21300000, guid: b55b3c513054b744ca4f7c2ca849d283, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Tendo : ...'
+  - Portrait: {fileID: 21300000, guid: ad9a08c0fbe2bfa4d9b31f20224f30ab, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Hime : ...'
+  - Portrait: {fileID: 21300000, guid: dad8cb6c6c99c554c9cea82fda45c86f, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Sato : ...'
+  - Portrait: {fileID: 21300000, guid: 7cbbc7128ae9aef44b3b17428be92b04, type: 3}
+    BG: {fileID: 21300000, guid: 61dc66224dd094741bd46f6e3cf5bdfa, type: 3}
+    Text: 'Natsuki : ...'
+  - Portrait: {fileID: 21300000, guid: a02af3b0ff96e384caffd6244fe123c8, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : (So.. I just went though such a rough day)'
+  - Portrait: {fileID: 21300000, guid: a02af3b0ff96e384caffd6244fe123c8, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: "Taki : (but it\u2019s all over now)"
+  - Portrait: {fileID: 21300000, guid: a02af3b0ff96e384caffd6244fe123c8, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : (thanks to everyone)'
+  - Portrait: {fileID: 21300000, guid: a02af3b0ff96e384caffd6244fe123c8, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : (Sato, Natsuki...)'
+  - Portrait: {fileID: 21300000, guid: a02af3b0ff96e384caffd6244fe123c8, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : (Hime and Tendo...)'
+  - Portrait: {fileID: 21300000, guid: a02af3b0ff96e384caffd6244fe123c8, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : (Looks like there are more people who I can count on)
+
+'
+  - Portrait: {fileID: 21300000, guid: fd1c2a22f39eb4144a0e742cc0d3d4b3, type: 3}
+    BG: {fileID: 21300000, guid: fafd64dba1f38f749b096fbd51d2979e, type: 3}
+    Text: 'Taki : (But unfortunately, it is almost time to leave.)
+
+'
